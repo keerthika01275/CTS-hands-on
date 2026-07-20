@@ -1,0 +1,7 @@
+com\command\NoCommand.class
+com\command\RemoteControl.class
+com\command\LightOnCommand.class
+com\command\Light.class
+com\command\Command.class
+com\command\CommandTest.class
+com\command\LightOffCommand.class

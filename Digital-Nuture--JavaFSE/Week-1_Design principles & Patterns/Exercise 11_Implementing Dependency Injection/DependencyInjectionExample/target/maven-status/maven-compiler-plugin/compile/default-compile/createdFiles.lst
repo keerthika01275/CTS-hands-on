@@ -1,0 +1,5 @@
+com\di\Customer.class
+com\di\CustomerRepository.class
+com\di\DITest.class
+com\di\CustomerService.class
+com\di\CustomerRepositoryImpl.class

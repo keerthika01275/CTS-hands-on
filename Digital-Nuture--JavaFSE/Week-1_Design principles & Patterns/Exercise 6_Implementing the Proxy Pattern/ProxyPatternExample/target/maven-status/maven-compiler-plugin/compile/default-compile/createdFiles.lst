@@ -1,0 +1,4 @@
+com\proxy\Image.class
+com\proxy\ProxyImage.class
+com\proxy\ProxyTest.class
+com\proxy\RealImage.class

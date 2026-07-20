@@ -1,0 +1,5 @@
+com\strategy\PaymentStrategy.class
+com\strategy\StrategyTest.class
+com\strategy\PaymentContext.class
+com\strategy\CreditCardPayment.class
+com\strategy\PayPalPayment.class
